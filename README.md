@@ -41,3 +41,15 @@ This project aims to provide insights into the cryptocurrency market by analyzin
 
 ![image](https://github.com/ameysadawarti/Crypto_Quant_Project/assets/47478596/e15ad04e-43c0-4bf3-906d-cf9ea830e3b4)
 
+
+## Conclusion/Result Analysis
+
+Upon reviewing the obtained results, it is evident that the quintile 5 portfolio exhibits the most favorable Sharpe Ratio, signifying a superior risk-adjusted return compared to other quintiles. Therefore, we can employ the high momentum predictor to capitalize on the trading potential of quintile 5 portfolio. Moreover, the average turnover for quintile 5 is low = 0.08, translating to minimized transaction costs.
+
+
+
+
+
+
+
+
